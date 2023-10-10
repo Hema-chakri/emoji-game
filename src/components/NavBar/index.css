@@ -1,0 +1,32 @@
+/* Write your code here. */
+.logo {
+  display: flex;
+}
+
+.navbar-container {
+  display: flex;
+  background-color: #ffffff33;
+  justify-content: space-around;
+}
+
+.logo-image {
+  height: 50px;
+  width: 50px;
+  margin-top: 10px;
+}
+
+.logo-heading {
+  color: #ffffff;
+  font-size: 23px;
+}
+
+.scores-container {
+  display: flex;
+}
+
+.scores {
+  color: #ffffff;
+  margin-right: 30px;
+  font-weight: 400;
+  margin-top: 20px;
+}

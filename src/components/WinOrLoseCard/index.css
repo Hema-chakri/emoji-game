@@ -1,0 +1,9 @@
+/* Write your code here. */
+.score-details {
+  display: flex;
+  flex-direction: column;
+}
+
+.score-details-container {
+  display: flex;
+}
